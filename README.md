@@ -13,6 +13,10 @@ I'm web developer, and get project to make some Point Of Sale (POS) software. I 
 ### How it work
 Recta need desktop software called [Recta Host][recta-host], it serve all hardware connection and bridge with Browser via Websocket
 
+### Tambahan:
+- https://github.com/adenvt/recta-host/releases/
+- howto-use-printer.txt
+
 ## How to use
 
 ### Requirement
